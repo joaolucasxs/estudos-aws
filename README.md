@@ -19,7 +19,7 @@ Escrevo tudo com as minhas palavras, como material de revisão. Os labs são fei
 
 | # | Lab | Serviços | Status |
 |---|---|---|---|
-| 01 | Site estático hospedado no S3 | S3 | 🔜 |
+| 01 | [Site estático hospedado no S3](./labs/lab-01-site-estatico-s3) | S3 | ✅ |
 | 02 | Servidor web em uma instância EC2 | EC2, Security Groups | 🔜 |
 | 03 | Usuário IAM com permissão mínima | IAM | 🔜 |
 

@@ -7,13 +7,13 @@ Escrevo tudo com as minhas palavras, como material de revisão. Os labs são fei
 
 ## Estrutura
 
-| Pasta | Conteúdo |
-|---|---|
-| [01-conceitos-de-nuvem](./01-conceitos-de-nuvem) | O que é cloud, modelos (IaaS/PaaS/SaaS), benefícios, Well-Architected |
-| [02-seguranca-e-conformidade](./02-seguranca-e-conformidade) | Modelo de responsabilidade compartilhada, IAM, criptografia, compliance |
-| [03-tecnologia-e-servicos](./03-tecnologia-e-servicos) | EC2, S3, VPC, RDS, Lambda, regiões e zonas de disponibilidade |
-| [04-cobranca-e-precificacao](./04-cobranca-e-precificacao) | Modelos de preço, Free Tier, Cost Explorer, Budgets, planos de suporte |
-| [labs](./labs) | Laboratórios práticos passo a passo com prints |
+| Pasta | Conteúdo | Status |
+|---|---|---|
+| 01-conceitos-de-nuvem | O que é cloud, modelos (IaaS/PaaS/SaaS), benefícios, Well-Architected | 🔜 |
+| [02-seguranca-e-conformidade](./02-seguranca-e-conformidade) | [Modelo de responsabilidade compartilhada](./02-seguranca-e-conformidade/responsabilidade-compartilhada.md) · IAM, criptografia e compliance em seguida | Em andamento |
+| 03-tecnologia-e-servicos | EC2, S3, VPC, RDS, Lambda, regiões e zonas de disponibilidade | 🔜 |
+| 04-cobranca-e-precificacao | Modelos de preço, Free Tier, Cost Explorer, Budgets, planos de suporte | 🔜 |
+| [labs](./labs) | Laboratórios práticos passo a passo com prints | Em andamento |
 
 ## Labs
 
